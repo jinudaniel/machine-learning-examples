@@ -1,17 +1,20 @@
 # machine-learning-examples
-Implemented the below mentioned Machine Learning algorithms.
+Implement the below mentioned Machine Learning algorithms.
 
 * **K Nearest Neighbors**
-Implemented K Nearest Neighbors using Pandas and Numpy. Used Iris dataset for training the algorithm
+Implement K Nearest Neighbors using Pandas and Numpy. Iris dataset was used to train this algorithm
 
 * **Linear Regression**
-Implemented Linear regression using Numpy and Gradient descent
+Implement Linear regression using Numpy and Gradient descent
 
 * **Logistic Regression**
-Implemented Logistic regression using Numpy and Gadient Descent. Used Andrew Ng's Deep learning class as reference.
+Implement Logistic regression using Numpy and Gadient Descent. Used Andrew Ng's Deep learning class as reference.
 
 * **Neural Network**
-Implemented Neural network from scratch using Numpy. Andrew Ng's Deep learning class was used as a reference.
+Build a Neural network from scratch using Numpy. Andrew Ng's Deep learning class was used as a reference.
 
 * **Neural Network using Keras**
-Implemented a 3 layer Neural Network using Keras framework. Data will be pima indians dataset.
+Build a 3 layer Neural Network using Keras framework. Data will be pima indians dataset.
+
+* **Neural Network using Tensorflow**
+Build a 3 layer Neural network using Tensorflow framework and MNIST dataset
