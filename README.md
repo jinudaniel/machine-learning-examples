@@ -18,3 +18,6 @@ Build a 3 layer Neural Network using Keras framework. Data will be pima indians 
 
 * **Neural Network using Tensorflow**
 Build a 3 layer Neural network using Tensorflow framework and MNIST dataset
+
+* **Classifier using Scikit learn**
+Build a fruit classifier using sklearn library. Used clasification algorithms Logistic Regression, Descision Tree, K Nearest Neighbours, Gaussin Naive Bayes and Support vector machine.
